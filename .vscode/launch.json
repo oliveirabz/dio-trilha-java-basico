@@ -6,11 +6,23 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ContaTerminal",
+      "request": "launch",
+      "mainClass": "ContaTerminal",
+      "projectName": "dio-trilha-java-basico_6798c028"
+    },
+    {
+      "type": "java",
       "name": "AboutMe",
       "request": "launch",
       "mainClass": "AboutMe",
       "projectName": "dio-trilha-java-basico_6798c028",
-      "args": ["Bruna", "Oliveira", "21", "1.60"]
+      "args": [
+        "Bruna",
+        "Oliveira",
+        "21",
+        "1.60"
+      ]
     },
     {
       "type": "java",
