@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ProcessoSeletivo",
+      "request": "launch",
+      "mainClass": "ProcessoSeletivo",
+      "projectName": "dio-trilha-java-basico_b7e5cde0"
+    },
+    {
+      "type": "java",
       "name": "ContaTerminal",
       "request": "launch",
       "mainClass": "ContaTerminal",
